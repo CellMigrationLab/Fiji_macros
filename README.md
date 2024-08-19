@@ -11,8 +11,12 @@ A small collection of useful macro for Fiji (ImageJ).
 **[`Measure_Intensity_All_Slices.ijm`](Measure_Intensity_All_Slices.ijm)**: Measures intensity for all slices in a stack. Iterates through each slice, setting and measuring the current slice.
 
 #### Run Analyze Particles on All ROIs
-**[`Run_Analyze_Particles_All_ROIs.ijm`](Run_Analyze_Particles_All_ROIs.ijm)**: Runs the Analyze Particles function on all ROIs in the ROI Manager. Iterates through each ROI, selecting and analyzing particles.
+**[`Run_Analyse_particle_on_all_ROI.ijm`](Run_Analyse_particle_on_all_ROI.ijm)**: Runs the Analyze Particles function on all ROIs in the ROI Manager. Iterates through each ROI, selecting and analyzing particles.
 
 #### Batch Processing Script
 **[`Batch_processing.ijm`](Batch_processing.ijm)**: Batch processing macro empty backbone. Just add your own code to process folders.
+
+#### BitDepth checker Script
+**[`bitDepth_checker.ijm`](bitDepth_checker.ijm)**: Prints the bit-depth of each image in a folder.
+
 
