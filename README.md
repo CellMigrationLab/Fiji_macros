@@ -20,4 +20,4 @@ A small collection of useful macro for Fiji (ImageJ).
 **[`bitDepth_checker.ijm`](bitDepth_checker.ijm)**: Prints the bit-depth of each image in a folder.
 
 #### Random Point Generation within ROI
-**[`Random_point_generation_ROI.ijm`](Random_point_generation_ROI.ijm)**: An ImageJ macro that randomly generates points inside a binary mask. The script generates a specified number of random points, overlays them onto the image, and counts how many of them fall inside the region of interest (ROI) where the pixel value is 255. The points outside the ROI are marked differently. The macro outputs the results to the log window and performs additional analysis like particle analysis and ROI mapping.
+**[`Random_point_generation_ROI.ijm`](Random_point_generation_ROI.ijm)**: An ImageJ macro that randomly generates points inside a binary mask. The script generates a specified number of random points, overlays them onto the image, and counts how many of them fall inside the region of interest (ROI) where the pixel value is 255. 
