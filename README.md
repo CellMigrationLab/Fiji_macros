@@ -22,5 +22,5 @@ A small collection of useful macro for Fiji (ImageJ).
 #### Random Point Generation within ROI
 **[`Random_point_generation_ROI.ijm`](Random_point_generation_ROI.ijm)**: An ImageJ macro that randomly generates points inside a binary mask. The script generates a specified number of random points, overlays them onto the image, and counts how many of them fall inside the region of interest (ROI) where the pixel value is 255. 
 
-### Intensity_measurement_using_mask
-An ImageJ macro that opens channel of interest and corresponding segmented mask image and measures the intensity based on the mask image.
+#### Intensity_measurement_using_mask
+An ImageJ macro that opens the channel of interest and corresponding segmented mask image to measure the intensity based on the mask image.
